@@ -1,0 +1,14 @@
+html {
+    box-sizing: border-box;
+    font-size: 14px;
+}
+*, *:before, *:after{
+    box-sizing: inherit:
+}
+body{
+    width: 88%;
+    margin: auto;
+    align-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
